@@ -1,0 +1,74 @@
+{
+  "name": "document1",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e36d581e4f2844db345bddc205d15dda",
+      "css": "group",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "96ea1be71f597a5bdfc8f791ada4f651",
+      "css": "archive",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "1e89103762be72b0720eda0468e62b90",
+      "css": "globe",
+      "code": 59393,
+      "src": "linecons"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "globe-1",
+      "code": 59520,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "x8m4z7b33cv1h2s784tjlam56uq40wtd",
+      "css": "users",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "31972e4e9d080eaa796290349ae6c1fd",
+      "css": "users-1",
+      "code": 59402,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ed2e1b058c45ebbfe8bae333b187de0e",
+      "css": "instagram_dark",
+      "code": 59553,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M806.8 0A193.6 193.6 0 0 1 1000 193.2H1000V806.8A193.6 193.6 0 0 1 806.8 1000H193.2A193.6 193.6 0 0 1 0 806.8H0V193.2A193.6 193.6 0 0 1 193.2 0H806.8ZM245.9 397.7H96.8V806.8A95.9 95.9 0 0 0 192.7 902.7H805A95.9 95.9 0 0 0 900.5 806.8H900.5V397.7H751.4A267.3 267.3 0 0 1 772.7 500 272.7 272.7 0 1 1 245.9 397.7ZM500 324.5A177.7 177.7 0 1 0 643.2 398.2 175.5 175.5 0 0 0 500 324.5ZM883.6 115H714.5L714.5 284.5H884.1Z",
+        "width": 1000
+      },
+      "search": [
+        "instagram_dark"
+      ]
+    },
+    {
+      "uid": "0ee6819f2e05388b52a4503269899b24",
+      "css": "facebook",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M875 0L125 0C56.1 0 0 56.1 0 125L0 875C0 943.9 56.1 1000 125 1000L500 1000 500 656.3 375 656.3 375 500 500 500 500 375C500 271.4 583.9 187.5 687.5 187.5L812.5 187.5 812.5 343.8 750 343.8C715.5 343.8 687.5 340.5 687.5 375L687.5 500 843.8 500 781.3 656.3 687.5 656.3 687.5 1000 875 1000C943.9 1000 1000 943.9 1000 875L1000 125C1000 56.1 943.9 0 875 0Z",
+        "width": 1000
+      },
+      "search": [
+        "facebook"
+      ]
+    }
+  ]
+}

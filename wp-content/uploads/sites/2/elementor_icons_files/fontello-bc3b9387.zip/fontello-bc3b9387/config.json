@@ -1,0 +1,24 @@
+{
+  "name": "fontawesome",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ed2e1b058c45ebbfe8bae333b187de0e",
+      "css": "instagram_dark",
+      "code": 59553,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M806.8 0A193.6 193.6 0 0 1 1000 193.2H1000V806.8A193.6 193.6 0 0 1 806.8 1000H193.2A193.6 193.6 0 0 1 0 806.8H0V193.2A193.6 193.6 0 0 1 193.2 0H806.8ZM245.9 397.7H96.8V806.8A95.9 95.9 0 0 0 192.7 902.7H805A95.9 95.9 0 0 0 900.5 806.8H900.5V397.7H751.4A267.3 267.3 0 0 1 772.7 500 272.7 272.7 0 1 1 245.9 397.7ZM500 324.5A177.7 177.7 0 1 0 643.2 398.2 175.5 175.5 0 0 0 500 324.5ZM883.6 115H714.5L714.5 284.5H884.1Z",
+        "width": 1000
+      },
+      "search": [
+        "instagram_dark"
+      ]
+    }
+  ]
+}
