@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии на сайте OMM-Odessa	</title>
-	<atom:link href="/omm-odessa/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/omm-odessa</link>
+	<atom:link href="/https://sergeyv72.github.io/omm-odessa/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sergeyv72.github.io/omm-odessa</link>
 	<description>Одесский Мореходный Менеджмент</description>
 	<lastBuildDate>Wed, 24 Mar 2021 14:44:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
