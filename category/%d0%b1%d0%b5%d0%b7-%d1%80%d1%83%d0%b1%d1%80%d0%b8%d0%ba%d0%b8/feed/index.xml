@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Без рубрики &#8212; OMM-Odessa</title>
+	<title>Без рубрики &#8211; OMM-Odessa</title>
 	<atom:link href="/omm-odessa/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/feed/" rel="self" type="application/rss+xml" />
 	<link>/omm-odessa</link>
 	<description>Одесский Мореходный Менеджмент</description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/omm-odessa/wp-content/uploads/sites/2/2020/02/cropped-favicon_omm-10-10-32x32.png</url>
-	<title>Без рубрики &#8212; OMM-Odessa</title>
+	<title>Без рубрики &#8211; OMM-Odessa</title>
 	<link>/omm-odessa</link>
 	<width>32</width>
 	<height>32</height>
