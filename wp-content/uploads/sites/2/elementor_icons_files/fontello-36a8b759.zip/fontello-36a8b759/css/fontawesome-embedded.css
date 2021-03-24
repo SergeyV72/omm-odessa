@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'fontawesome';
-  src: url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.eot?75581210');
-  src: url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.eot?75581210#iefix') format('embedded-opentype'),
-       url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.svg?75581210#fontawesome') format('svg');
+  src: url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.eot?75581210');
+  src: url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.eot?75581210#iefix') format('embedded-opentype'),
+       url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.svg?75581210#fontawesome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontawesome';
-    src: url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.svg?75581210#fontawesome') format('svg');
+    src: url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-36a8b759.zip/fontello-36a8b759/font/fontawesome.svg?75581210#fontawesome') format('svg');
   }
 }
 */

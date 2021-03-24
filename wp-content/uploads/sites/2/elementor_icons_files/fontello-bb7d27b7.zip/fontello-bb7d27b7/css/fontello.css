@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontello';
-  src: url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.eot?62033735');
-  src: url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.eot?62033735#iefix') format('embedded-opentype'),
-       url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.woff2?62033735') format('woff2'),
-       url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.woff?62033735') format('woff'),
-       url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.ttf?62033735') format('truetype'),
-       url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.svg?62033735#fontello') format('svg');
+  src: url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.eot?62033735');
+  src: url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.eot?62033735#iefix') format('embedded-opentype'),
+       url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.woff2?62033735') format('woff2'),
+       url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.woff?62033735') format('woff'),
+       url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.ttf?62033735') format('truetype'),
+       url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.svg?62033735#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('/https://sergeyv72.github.io/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.svg?62033735#fontello') format('svg');
+    src: url('/omm-odessa/wp-content/uploads/sites/2/elementor_icons_files/fontello-bb7d27b7.zip/fontello-bb7d27b7/font/fontello.svg?62033735#fontello') format('svg');
   }
 }
 */
