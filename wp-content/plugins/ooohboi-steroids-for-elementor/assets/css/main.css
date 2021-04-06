@@ -62,6 +62,10 @@
 	background-image: none;
 }
 
+.ob-is-glider {
+	visibility: hidden;
+}
+
 /* TELEPORTER */
 .ob-is-teleporter .widget-wrap-children {
 	width: 100%;
@@ -288,5 +292,13 @@ html.elementor-html::before {
 	bottom: 0; 
 	width: 100%; 
 	z-index: 99999; 
+	pointer-events: none;
+}
+
+/* pseudo */
+.elementor-column.ob-is-pseudo .elementor-element-populated:before, 
+.elementor-column.ob-is-pseudo .elementor-element-populated:after {
+	content: '';
+	position: absolute; 
 	pointer-events: none;
 }
