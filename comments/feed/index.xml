@@ -11,11 +11,11 @@
 	<atom:link href="/omm-odessa/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/omm-odessa</link>
 	<description>Одесский Мореходный Менеджмент</description>
-	<lastBuildDate>Tue, 06 Apr 2021 10:43:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jun 2021 11:58:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 </channel>
 </rss>
