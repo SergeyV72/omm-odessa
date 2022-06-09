@@ -27,7 +27,12 @@
             filter: blur(0px);
     opacity: 1;
   }
-}/* End custom CSS */
+}
+
+@media (max-width: 767px) {
+.elementor-120 .elementor-element.elementor-element-eff8d93 {
+    right: 0;
+}}/* End custom CSS */
 /* Start custom CSS for divider, class: .elementor-element-10e2e42 */@media (max-width: 767px) {
     #box_line {
       display: none;
