@@ -2,4 +2,9 @@
 .oew-info-box-top .oew-info-box img {
     margin: 0;
     width: 120px
-}}/* End custom CSS */
+}}
+
+.oew-info-box-top .oew-info-box img {
+    margin: 0;
+    width: 150px
+}/* End custom CSS */
