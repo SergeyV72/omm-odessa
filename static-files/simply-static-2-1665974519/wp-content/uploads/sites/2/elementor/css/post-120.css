@@ -51,6 +51,20 @@
 .elementor-120 .elementor-element.elementor-element-ea2d0fa::before {
     width: calc(100% - 40px)
 }}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-0232fc4 */@media (min-width: 769px){
+.elementor-120 .elementor-element.elementor-element-0232fc4.e-container--column:before {
+    width: calc(100% - 80px)
+}}
+
+@media (min-width: 361px) and (max-width: 768px){
+.elementor-120 .elementor-element.elementor-element-0232fc4.e-container--column:before {
+    width: calc(100% - 60px)
+}}
+
+@media (max-width: 360px){
+.elementor-120 .elementor-element.elementor-element-0232fc4.e-container--column:before {
+    width: calc(100% - 40px)
+}}/* End custom CSS */
 /* Start custom CSS for oew-tabs, class: .elementor-element-1a9b1d1 */@media (min-width: 768px) {
 .oew-tab-content, .oew-tabs .oew-tab-mobile-title, .oew-tabs .oew-tabs-content-wrap {
     border-left: none !important;
